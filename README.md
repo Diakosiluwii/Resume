@@ -1,4 +1,3 @@
 # Resume
 Autobiography
-![Autobiography](https://github.com/Diakosiluwii/Resume/assets/134277312/72d705e4-9a9c-43ec-ab2b-7225679de143)
-
+![Resume pic](https://github.com/Diakosiluwii/Resume/assets/134277312/9964f332-b594-4a68-8bb4-4914906b614c)
