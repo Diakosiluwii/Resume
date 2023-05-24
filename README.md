@@ -3,7 +3,7 @@
 # Mark Louie C. Reyes
 
 ## Contact Information
-- Email: reyes.315373@sjdelmonte.sti.edu.ph
+- Email: reyes.315373@sjdelmonte.sti.edu.ph / Asdfghjklouiee07@gmail.com
 - Phone: +63 9155585428
 - Address: #799 Bo. Concepcion Doña Aurora st. Brgy. 188 Tala, Caloocan City
 
