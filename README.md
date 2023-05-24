@@ -15,7 +15,6 @@
 - Civil Status: Single
 - Nationality: Filipino
 - Religion: Roman Catholic
-- 
 
 ## Educational Background
 | Year                    | School                                    |
