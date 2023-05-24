@@ -5,7 +5,7 @@
 ## Contact Information
 - Email: reyes.315373@sjdelmonte.sti.edu.ph
 - Phone: +63 9155585428
-- Address: 
+- Address: #799 Bo. Concepcion Doña Aurora st. Brgy. 188 Tala, Caloocan City
 
 ## General Information
 - Age: 20
@@ -27,10 +27,12 @@
 
 
 ## Skills
-- Programming languages: Java, Python, JavaScript
-- Frameworks: React, Spring Boot
-- Other skills: Problem-solving, teamwork, communication
+- Adaptable and Confident
+- Dedicated and Passionate
+- Good at communicational skills
 
-## Languages
-- English: Fluent
-- Spanish: Basic proficiency
+## Achievements
+- With Honors from 2015-2019
+- With Honors from 2019-2021
+- Red Cross Youth in Elementary
+- Youth Organization President at Tala Commmunity
